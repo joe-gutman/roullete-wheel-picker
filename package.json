@@ -1,0 +1,26 @@
+{
+  "name": "roullete_wheel_picker",
+  "version": "1.0.0",
+  "description": "Roulette-themed wheel spin option selector.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joe-gutman/roullete_wheel_picker.git"
+  },
+  "author": "Joe Gutman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joe-gutman/roullete_wheel_picker/issues"
+  },
+  "homepage": "https://github.com/joe-gutman/roullete_wheel_picker#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
